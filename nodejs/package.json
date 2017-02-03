@@ -1,0 +1,24 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "Benchmark test for file reading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedlas/file-readers.git"
+  },
+  "keywords": [
+    "file",
+    "reading",
+    "benchmark"
+  ],
+  "author": "Tomas Sedlacek, kedlas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedlas/file-readers/issues"
+  },
+  "homepage": "https://github.com/kedlas/file-readers#readme"
+}
